@@ -1,0 +1,16 @@
+#section1{
+    background:url("http://sportlomo-userupload.s3.amazonaws.com/uploaded/galleries/9225_uploaded/gaa_pitch.jpg");
+}
+
+#section2{
+    background:url("http://sportlomo-userupload.s3.amazonaws.com/uploaded/galleries/9225_uploaded/indoor_sports_hall.jpg");
+}
+
+#section3{
+    background:url("http://sportlomo-userupload.s3.amazonaws.com/user_data/modules/galleries/9225/featured_I9xXhhEj5ZGkBiv7L9P3u12GXBVqLUQE.jpeg");
+}
+
+.section{
+    text-align: center;
+    color: white;
+}
