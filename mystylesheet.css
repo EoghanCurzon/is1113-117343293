@@ -4,33 +4,3 @@
 
 body {
     background:url("https://i1.wp.com/needwoodconstruction.com/wp-content/uploads/2017/08/Light-Website-Background-Superb-Web-Page-Background-Color.jpg?resize=640%2C400");
-}
-
-ul{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    background-color: #555;
-}
-
-
-li{
-    float: left;
-}
-
-li a{
-    display: block;
-    color:white;
-    text-align:center;
-    padding: 10px 59px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
-
-.active {
-    background-color: Green;
-}
