@@ -1,53 +1,38 @@
 html, 
-
 .mainheading{
     text-align: center;
     font-family: helvetica;
     font-size: 200%;
     color: #FFFFFF;   
 }
-
-
 body{
      height: 100%;
     margin-bottom:50px;
-
  }
 body {
     background-image: url("https://pre00.deviantart.net/36e2/th/pre/i/2009/362/e/3/office_desk_background_by_chocotemplates.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    backgroun
     min-height:100%;
     min-width:1280px;
     width:100%;
-    
     top:0%;
     left:0%;
-    
 }
-
 #img img{
     width:450px;
     position:relative;
-    
 }
-
 h1{
     text-align: center;
-    
 }
-
 p{
     color: #FFFFFF;
     font-family: helvetica;
     top: 33%;
     left: 33%;
     margin-left: 350px;
-    
 }
-
-
 a{
     margin-left: 350px;
 }

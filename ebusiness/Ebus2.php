@@ -2,11 +2,9 @@
 // start the session
 session_start();
 ?>
-
 <html>
     <head>
         <title>Enter Details</title>
-        
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
          <script type="text/javascript" src="ebus2_validator.js"></script>
@@ -81,9 +79,6 @@ input[type=password] {
                            cursor: pointer;
        }
          </style>
-         
-         
-         
          </head></PHP>
     </head>
     <body>
@@ -116,14 +111,8 @@ input[type=password] {
                 &nbsp;&nbsp;&nbsp;<button type="submit" id="btnPurchase" disabled>Proceed with Purchase</button>
               
             </form>
-            
-            
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onClick="validateDetails()">Validate</button>
-            
         </div>
-        
-       
-        
         <?php
         //Set session variables
         $_SESSION["total"] = $_POST["total"];

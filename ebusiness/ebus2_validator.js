@@ -1,12 +1,9 @@
 /* global $ */
 
 function validateDetails(){
-    
     var pin;
     var FirstName;
     var email;
-
-    
     pin = document.getElementById("user_pin").value;
     FirstName = document.forms["myForm"]["name"].value;
     email =document.forms["myForm"]["email"].value;
@@ -28,14 +25,9 @@ function validateDetails(){
     else 
         enablebtnPurchase();
     }
-    
-
-
-
 function enablebtnPurchase(){
     $('#btnPurchase').prop('disabled', false);
 }
-
 function disablebtnPurchase() {
     $('#btnPurchase').prop('disabled', true);
 }

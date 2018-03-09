@@ -27,9 +27,9 @@ li a:hover {
     background-color: #435a5b ;
 }
 .active {
-    background-color: ##435a5b;
+    background-color: #435a5b;
 }
-        
+       
         #maincontent {
                         top:7em;
                         left:25em;
@@ -87,14 +87,9 @@ li a:hover {
            background-color:#d966ff;
            color:White;
        }
-       
-       
         </style>
     </head>
     <body>
-        
-        
-        
          <ul>
             <li> <a href="../homepage.html"> Home</a></li>
       <li> <a href="../CV/cv_page1.html"> Curriculum Vitae </a> </li>
@@ -103,17 +98,7 @@ li a:hover {
       <li> <a href="../CloudShop/cloudshop.html"> Product Info </a></li>
       
       </ul>
-        
-        
-        
-        
-        
-        
-        
-        
         <PHP><head><link href="ebus.css" rel="stylesheet" type="text/css"></head></PHP>
-      
-
         <h2>Select A Product</h2>
         <div id ="maincontent">
             <br>
@@ -170,9 +155,6 @@ li a:hover {
             <div id ="button2">
           <button onClick="calcSub();calcDisVatTotal()">Calculate Cost</button>
           </div>
-          
-       
-        
         <br/>
         <div id ="button3">
         <a href="Ebus1.php"><button>Clear Choice</a></button>
