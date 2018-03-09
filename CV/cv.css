@@ -1,9 +1,10 @@
 html, 
 
 .mainheading{
-    text-align: center
+    text-align: center;
     font-family: helvetica;
-    color: #FFFFFF   
+    font-size: 200%;
+    color: #FFFFFF;   
 }
 
 
@@ -13,22 +14,23 @@ body{
 
  }
 body {
-    background-image: url("http://maccg.com/wp-content/uploads/2013/08/css-quilt.png");
+    background-image: url("https://pre00.deviantart.net/36e2/th/pre/i/2009/362/e/3/office_desk_background_by_chocotemplates.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    backgroun
     min-height:100%;
     min-width:1280px;
     width:100%;
     
-    top:0;
-    left:0;
+    top:0%;
+    left:0%;
     
 }
 
 #img img{
     width:450px;
     position:relative;
-    top:-20%;
+    
 }
 
 h1{
@@ -37,48 +39,15 @@ h1{
 }
 
 p{
-    color: white;
-}
-
-ul{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    width:100%;
-    overflow:hidden;
-    background-color: #333;
-}
-
-li{
-    float: left;
-}
-
-li a{
-    display: block;
-    color:white;
-    text-align:center;
-    padding: 16px 18px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
-
-.active {
-    background-color: Blue;
-}
-footer{
-    position: absolute;
-    top:100%;
-    text-align:center;
-    left: 0%;
-    line-height: .8;
-    margin-top:0;
-    width:100%;
-    background-color: #333
+    color: #FFFFFF;
+    font-family: helvetica;
+    top: 33%;
+    left: 33%;
+    margin-left: 350px;
     
 }
-footer p{
-    margin-top: 0;
+
+
+a{
+    margin-left: 350px;
 }

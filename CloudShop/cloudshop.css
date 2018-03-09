@@ -1,0 +1,36 @@
+h1{
+    font-family: helvetica;
+    font-size: 300%;
+    text-align: center;
+    color: white;
+    margin-right: 200px;
+}
+
+p{
+    font-size: 50%;
+    color: white;
+    margin-right: 200px;
+}
+
+
+body{
+    background:url("https://media.gettyimages.com/illustrations/teal-abstract-glass-texture-background-or-pattern-creative-design-illustration-id649683400?b=1&k=6&m=649683400&s=612x612&w=0&h=zyPwmQYByIGBzhIOeYE2baMABRZlYHAkJFcE76aE9fI=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    
+}
+
+ul{
+    color: #d1f7f9;
+    font-size: 100%;
+}
+
+a{
+    color: #d1f7f9;
+    font-size: 50%;
+}
+

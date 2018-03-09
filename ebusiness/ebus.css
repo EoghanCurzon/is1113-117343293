@@ -1,0 +1,100 @@
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: 	#435a5b;
+}
+
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color:white;
+    text-align:center;
+    padding: 10px 59px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+        
+        #maincontent {
+                        top:7em;
+                        left:25em;
+                        width:30em;
+                        height:30em;
+                        position:absolute;
+                        border-style:groove;
+        }
+        #button1 {
+            top:22.5em;
+            left:3em;
+            position:absolute;
+        }
+        #button2 {
+            top:22.5em;
+            left:13em;
+            position:absolute;
+        }
+        #button3 {
+            top:25em;
+            left:9em;
+            position: absolute;
+        }
+        #Logo1 {
+            top:4em;
+            left:2em;
+            position: absolute;
+        }
+        h2 {
+            text-align:center;
+        }
+        input[type=text] {
+                           border: 2px solid black;
+                           border-radius: 4px;
+                           text-align:center;
+}
+       button[type=submit]:disabled {
+                           background-color: grey;
+                           border-radius: 2px;
+                           border:none;
+                           color: black;
+                           padding: 5px;
+                           cursor: pointer;
+                           
+       }
+       button[type=submit]:enabled {
+                          background-color:#80ffd4;
+                          color: White;
+       }
+       button {
+            background-color: #42d7f4;
+                           border-radius: 2px;
+                           border:none;
+                           color: black;
+                           padding: 5px;
+                           cursor: pointer;
+       }
+       button:hover {
+           background-color:#d966ff;
+           color:White;
+       }
+       
+       
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+h2 {
+    text-align:center;
+}

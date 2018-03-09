@@ -1,5 +1,5 @@
 #section1{
-    background:url("http://pembroke-castle.co.uk/galleries/download/61");
+    background:url("http://sportlomo-userupload.s3.amazonaws.com/user_data/modules/galleries/9225/image_EsP5bEZNDb6epgJSQUtWSnsK.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
@@ -9,18 +9,17 @@
 }
 
 #section2{
-    background:url("http://static.asiawebdirect.com/m/phuket/portals/hong-kong-hotels-ws/homepage/nightlife/pagePropertiesImage/hong-kong-nightlife.jpg.jpg");
+    background:url("http://sportlomo-userupload.s3.amazonaws.com/uploaded/galleries/9225_uploaded/indoor_sports_hall.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
     width: 100%;
     left: 0;
     top: 0;
-    
 }
 
 #section3{
-    background:url("http://instaireland.ie/wp-content/uploads/2016/09/20160326_153302.jpg");
+    background:url("http://www.macroom.ie/images/V14E26Web/Pic%2082.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
@@ -30,7 +29,7 @@
 }
 
 #section4{
-    background:url("https://www.australianoutdoorliving.com.au/wp-content/uploads/2017/05/4-AOLs-Augusta-35-artificial-grass-range.jpg");
+    background:url("https://pbs.twimg.com/profile_images/3726687410/ebd68ac9ac3dd36a57a427941157daee_400x400.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
@@ -38,6 +37,7 @@
     left: 0;
     top: 0;
 }
+
 
 .section{
     text-align: center;
